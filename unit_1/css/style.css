@@ -1,7 +1,7 @@
-body {
-	background-color: #C70039;
+h1, h3 {
+	font-family: Arial, sans-serif;
 }
 
-h1, p {
-	color: #FBFEC0;
+p {
+	font-family: "Courier New", monospace;
 }
