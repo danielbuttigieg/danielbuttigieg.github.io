@@ -8,10 +8,7 @@ h1 {
 
 p {
 	font-family: "Courier New", monospace;
-}
 
-.links {
-	padding: 2px;
 }
 
 h3 {
@@ -19,4 +16,18 @@ h3 {
 	text-align: center;
 	font-size: 15px;
 	padding-bottom: 5px;
+}
+
+.links {
+  margin: auto;
+  margin-top: 2em;
+  width: 400px;
+  border: 1px solid;
+  padding: 4px;
+}
+
+img {
+  display: inline-block;
+  float: right;
+  clear: right;
 }
