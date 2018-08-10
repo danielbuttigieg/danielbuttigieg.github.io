@@ -29,6 +29,6 @@ body {
 ul { 
 	display:table; margin:0 auto;
 	font-family: Arial, sans-serif;
-	text-align: center;
+	text-align: left;
 	font-size: 15px;
 }
