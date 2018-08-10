@@ -28,4 +28,7 @@ body {
 
 ul { 
 	display:table; margin:0 auto;
+	font-family: Arial, sans-serif;
+	text-align: center;
+	font-size: 15px;
 }
