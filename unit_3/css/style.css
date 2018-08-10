@@ -6,6 +6,10 @@ h1 {
 	text-align: center;
 }
 
+#topimage {
+	align-items: center;
+}
+
 p {
 	font-family: "Courier New", monospace;
 }
