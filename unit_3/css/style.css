@@ -19,8 +19,10 @@ h3 {
 }
 
 .links {
-  padding: 4px 4px 4px 4px;
-  pad
+  padding-bottom: 4px;
+  padding-top: 4px;
+  padding-left: 4px;
+  padding-right: 4px;
 }
 
 body {
