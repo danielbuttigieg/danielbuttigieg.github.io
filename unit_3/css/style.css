@@ -10,9 +10,9 @@ p {
 }
 
 a {
+	font-family: Arial, sans-serif;
 	text-align: center;
 	font-size: 14
-	font-family: Arial, sans-serif;
 	padding-bottom: 10px;
 
 }
