@@ -8,3 +8,9 @@ h1 {
 p {
 	font-family: "Courier New", monospace;
 }
+
+a {
+	text-align: center;
+	font-size: 14
+	font-family: Arial, sans-serif;
+}
