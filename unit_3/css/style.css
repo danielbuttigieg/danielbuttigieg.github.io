@@ -10,8 +10,6 @@ p {
 	font-family: "Courier New", monospace;
 }
 
-}
-
 .links {
 	padding: 2px;
 }
@@ -19,6 +17,6 @@ p {
 h3 {
 	font-family: Arial, sans-serif;
 	text-align: center;
-	font-size: 10px;
-	padding-bottom: 10px;
+	font-size: 15px;
+	padding-bottom: 5px;
 }
