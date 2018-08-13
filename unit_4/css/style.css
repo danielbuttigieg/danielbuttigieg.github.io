@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Arbutus+Slab|Julius+Sans+One');
 
+h2:hover {
+    background-color: #1ABC9C;
+    text-decoration-color: white
+}
+
 h1, h2 {
 	font-family: 'Arbutus Slab', serif;
 }
