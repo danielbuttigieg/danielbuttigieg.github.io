@@ -2,7 +2,11 @@
 
 h2:hover {
     background-color: #1ABC9C;
-    text-decoration-color: white
+    color: white;
+    padding-top: 0.7em;
+  padding-bottom: 0.7em;
+  width: 35%;
+  margin: 0 auto;
 }
 
 h1, h2 {
