@@ -1,12 +1,24 @@
 @import url('https://fonts.googleapis.com/css?family=Arbutus+Slab|Julius+Sans+One');
 
-h2:hover {
-    background-color: #1ABC9C;
-    color: white;
-    padding-top: 0.7em;
-  padding-bottom: 0.7em;
-  width: 35%;
-  margin: 0 auto;
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: #1ABC9C;
+}
+
+/* selected link */
+a:active {
+    color: #1ABC9C;
 }
 
 h1, h2 {
