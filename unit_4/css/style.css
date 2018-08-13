@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Julius+Sans+One);
+@import url('https://fonts.googleapis.com/css?family=Arbutus+Slab|Julius+Sans+One');
 
 h1, h2 {
-	font-family: 'Julius Sans One', sans-serif;
+	font-family: 'Arbutus Slab', serif;
 }
 
 h1 {
