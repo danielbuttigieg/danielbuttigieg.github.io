@@ -32,11 +32,12 @@ h1 {
 
 h2 {
 	font-size: 13px;
-	position: center;
+	text-align: center;
 }
 
 p {
 	font-family: Arial, sans-serif;
+	text-align: center;
 
 }
 
@@ -68,11 +69,14 @@ ul {
 }
 
 #logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    display:block;
+    max-width: 200px;
+    margin: 0 auto;
+    width: 90%;
 }
+
+.foliotiles [
+]
 
 #footer {
 	padding-bottom: 80px
