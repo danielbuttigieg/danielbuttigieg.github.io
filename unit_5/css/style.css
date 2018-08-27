@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Arbutus+Slab|Julius+Sans+One');
+
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: #1ABC9C;
+}
+
+/* selected link */
+a:active {
+    color: #1ABC9C;
+}
+
+h1, h2 {
+	font-family: 'Arbutus Slab', serif;
+}
+
+h1 {
+	font-size: 24px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 13px;
+	text-align: center;
+}
+
+p {
+	font-family: Arial, sans-serif;
+	text-align: center;
+
+}
+
+h3 {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	font-size: 15px;
+	padding-bottom: 5px;
+}
+
+
+body {
+	color: 
+}
+
+ul { 
+	display:table; margin:0 auto;
+	font-family: Arial, sans-serif;
+	text-align: left;
+	font-size: 15px;
+}
+
+.subheads {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	font-size: 15px;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+
+#logo {
+    display:block;
+    max-width: 100px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.foliotiles [
+]
+
+#footer {
+	padding-bottom: 80px
+}
