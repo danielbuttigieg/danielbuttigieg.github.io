@@ -63,7 +63,7 @@ ul {
 }
 
 #logo {
-    display:block;
+    display: block;
     max-width: 100px;
     margin: 0 auto;
     width: 90%;
@@ -79,7 +79,7 @@ header {
     padding: 20px;
 }
 nav {
-    background-color: #E8C66A;
+    background-color: : #E8C66A;
     border: 1px black solid;
     padding: 20px;
 }
