@@ -97,8 +97,9 @@ nav{
     align-items: middle;
 }
 #tiles img{
-    height: 300em;
-    width: 300em;
+    height: 300px;
+    width: 300px;
+    scale: 300em;
     vertical-align: middle;
     align-items: middle;
 }
