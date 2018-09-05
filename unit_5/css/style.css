@@ -90,8 +90,8 @@ nav{
 #tiles{
     display: inline-block;
     position: relative;
-    padding: 5px;
-    margin: 5px;
+    padding: "5px";
+    margin: "5px";
     text-align: center;
     align-items: middle;
 }
