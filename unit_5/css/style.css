@@ -93,13 +93,13 @@ nav{
     padding: "5px";
     margin: "5px";
     text-align: center;
-    align-items: middle;
 }
 #tiles img{
     height: 300px;
     width: 300px;
     vertical-align: middle;
-    align-items: middle;
+    padding: "5px";
+    margin: "5px";
 }
 
 footer {
