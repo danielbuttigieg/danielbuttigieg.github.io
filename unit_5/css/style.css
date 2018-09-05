@@ -89,8 +89,7 @@ nav {
 #tiles {
     background-color: "000000";
     padding: "20px";
-	vertical-align: "center";
-    display: "table"; 
+	vertical-align: "center"; 
 	margin: "0 auto"; 
 	padding: "5px";
 }
