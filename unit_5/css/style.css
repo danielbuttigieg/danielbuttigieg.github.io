@@ -55,10 +55,10 @@ ul {
 	font-size: 15px;
 }
 
-#foliotiles {
+.tiles {
 display: "block"; 
-vertical-align: "center";
 padding: "5px";
+margin: "0 auto";
 }
 
 .subheads {
