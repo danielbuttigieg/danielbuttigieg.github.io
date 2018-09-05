@@ -55,6 +55,13 @@ ul {
 	font-size: 15px;
 }
 
+#foliotiles {
+display: "table-cell"; 
+vertical-align: "middle"; 
+text-align: "center"; 
+padding: "5px";
+}
+
 .subheads {
 	font-family: Arial, "sans-serif";
 	text-align: center;
