@@ -97,11 +97,11 @@ nav {
 section {
     background-color: "WhiteSmoke";
     padding: "20px";
+    vertical-align: "center";
 }
 
 footer {
     background-color: "#FF957E";
-    border: 1px black solid;
     padding: "20px";
 }
 
