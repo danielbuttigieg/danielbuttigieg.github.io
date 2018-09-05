@@ -75,12 +75,12 @@ ul {
 }
 
 header {
-    background-color: "white";
+    background-color: "#fff";
     border: 1px black solid;
     padding: 20px;
     float: "left";
     display: "block";
-   
+
 }
 
 nav {
