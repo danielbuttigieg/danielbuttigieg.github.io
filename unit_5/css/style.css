@@ -97,6 +97,7 @@ nav {
 section {
     background-color: "WhiteSmoke";
     padding: "20px";
+    display: "table";
     vertical-align: "center";
 }
 
