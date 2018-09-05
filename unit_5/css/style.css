@@ -87,11 +87,11 @@ nav {
 }
 #tiles {
 	background-color: "000000";
-    padding: "20px";
-	vertical-align: "center"; 
+    padding: "20px"; 
 	margin: "0 auto"; 
 	padding: "5px";
-	display: "block"
+	display: "block";
+	width: "900px";
 }
 
 footer {
