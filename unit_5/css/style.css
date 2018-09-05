@@ -85,13 +85,7 @@ nav {
     padding: "20px";
     height: "20px";
 }
-#tiles {
-	background-color: "000000";
-    padding: "20px"; 
-	margin: "0 auto"; 
-	display: "table";
-	width: "100%";
-}
+
 
 footer {
     background-color: "#FF957E";
