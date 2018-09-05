@@ -64,11 +64,10 @@ ul {
 	font-weight: "bold";
 }
 
-img #logo {
+img#logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 30px;
     width: 10%;
 }
 
