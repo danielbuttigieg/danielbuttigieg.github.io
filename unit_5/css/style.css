@@ -99,7 +99,7 @@ nav{
 #tiles img{
     height: 300px;
     width: 300px;
-    scale: 300em;
+    scale: 1.5em;
     vertical-align: middle;
     align-items: middle;
 }
