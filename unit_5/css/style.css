@@ -97,9 +97,9 @@ nav {
     text-align:center;
 }
 #tiles img{
-    height: 400px;
-    width: 400px;
-    vertical-align: middle;
+    height: "1.5em";
+    width: "1.5em";
+    vertical-align: "middle";
 }
 
 footer {
