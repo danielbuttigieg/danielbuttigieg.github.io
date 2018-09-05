@@ -68,7 +68,7 @@ ul {
     display: inline-block;
     position: relative;
     padding: "5px";
-    text-align: center;
+    vertical-align: middle;
 }
 
 #footer {
