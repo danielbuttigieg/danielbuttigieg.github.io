@@ -56,9 +56,8 @@ ul {
 }
 
 #foliotiles {
-display: "table-cell"; 
-vertical-align: "middle"; 
-text-align: "center"; 
+display: "block"; 
+vertical-align: "center";
 padding: "5px";
 }
 
