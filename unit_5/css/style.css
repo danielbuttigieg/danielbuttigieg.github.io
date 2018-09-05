@@ -65,8 +65,10 @@ ul {
 }
 
 #logo {
-    display: "inline-block";
-    margin: "0 auto";
+    display: inline-block;
+    position: relative;
+    padding: "5px";
+    text-align: center;
 }
 
 #footer {
