@@ -76,16 +76,14 @@ ul {
 
 header {
     background-color: "#fff";
-    border: 1px black solid;
     padding: 20px;
     float: "left";
-    display: "block";
+    display: "inline-block";
 
 }
 
 nav {
     background-color: : #E8C66A;
-    border: 1px black solid;
     padding: 20px;
 }
 
