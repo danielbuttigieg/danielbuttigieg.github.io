@@ -92,6 +92,7 @@ section {
 	vertical-align: "center"; 
 	margin: "0 auto"; 
 	padding: "5px";
+	display: "block"
 }
 
 footer {
