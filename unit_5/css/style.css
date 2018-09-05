@@ -91,7 +91,6 @@ nav{
     display: inline-block;
     position: relative;
     padding: "5px";
-    margin: "5px";
     text-align: center;
 }
 #tiles img{
@@ -99,7 +98,6 @@ nav{
     width: 300px;
     vertical-align: middle;
     padding: "5px";
-    margin: "5px";
 }
 
 footer {
