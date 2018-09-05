@@ -55,10 +55,10 @@ ul {
 	font-size: 15px;
 }
 
-.tiles {
-display: table; margin:0 auto; 
+#tiles {
+display: "table"; 
+margin: "0 auto"; 
 padding: "5px";
-margin: "0 auto";
 }
 
 .subheads {
