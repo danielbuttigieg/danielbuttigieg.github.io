@@ -49,14 +49,14 @@ h3 {
 }
 
 ul { 
-	display:table; margin:0 auto;
+	display: table; margin:0 auto;
 	font-family: Arial, "sans-serif";
 	text-align: left;
 	font-size: 15px;
 }
 
 .tiles {
-display: "block"; 
+display: table; margin:0 auto; 
 padding: "5px";
 margin: "0 auto";
 }
@@ -70,7 +70,7 @@ margin: "0 auto";
 }
 
 #logo {
-    display: "block";
+    display: "inline-block";
     margin: "0 auto";
 }
 
