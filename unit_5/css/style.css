@@ -64,45 +64,46 @@ padding: "5px";
 
 .subheads {
 	font-family: Arial, "sans-serif";
-	text-align: center;
-	font-size: 15px;
-	padding-bottom: 5px;
-	font-weight: bold;
+	text-align: "center";
+	font-size: "15px";
+	padding-bottom: "5px";
+	font-weight: "bold";
 }
 
 #logo {
-    display: block;
-    max-width: 100px;
-    margin: 0 auto;
-    width: 90%;
+    display: "block";
+    max-width: "100px";
+    margin: "0 auto";
+    width: "90%";
 }
 
 #footer {
-	padding-bottom: 80px
+	padding-bottom: "80px";
 }
 
 header {
     background-color: "#fff";
-    padding: 20px;
+    padding: "20px";
     float: "left";
     display: "inline-block";
 
 }
 
 nav {
-    background-color: : #E8C66A;
-    padding: 20px;
+    background-color: : "#E8C66A";
+    padding: "20px";
+    height: "20px";
 }
 
 section {
-    background-color: #FFE2B8;
+    background-color: "WhiteSmoke";
     border: 1px black solid;
-    padding: 20px;
+    padding: "20px";
 }
 
 footer {
-    background-color: #FF957E;
+    background-color: "#FF957E";
     border: 1px black solid;
-    padding: 20px;
+    padding: "20px";
 }
 
