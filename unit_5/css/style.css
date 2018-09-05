@@ -89,9 +89,8 @@ nav {
 	background-color: "000000";
     padding: "20px"; 
 	margin: "0 auto"; 
-	padding: "5px";
 	display: "block";
-	width: "900px";
+	width: "100%";
 }
 
 footer {
