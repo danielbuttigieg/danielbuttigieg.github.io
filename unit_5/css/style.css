@@ -89,7 +89,7 @@ nav {
 	background-color: "000000";
     padding: "20px"; 
 	margin: "0 auto"; 
-	display: "block";
+	display: "table";
 	width: "100%";
 }
 
