@@ -69,6 +69,7 @@ ul {
     position: relative;
     padding: "5px";
     vertical-align: "middle";
+    position: middle;
 }
 
 #footer {
