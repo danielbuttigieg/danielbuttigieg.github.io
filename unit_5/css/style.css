@@ -69,9 +69,8 @@ ul {
     margin-left: auto;
     margin-right: auto;
     padding-top: 20px;
-    width: 10%;
-    size: 50px;
-}
+    max-width: 50px;
+    }
 
 #footer {
 	padding-bottom: "80px";
