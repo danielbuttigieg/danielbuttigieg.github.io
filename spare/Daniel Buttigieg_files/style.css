@@ -49,67 +49,55 @@ h3 {
 }
 
 ul { 
-	display: table; margin:0 auto;
+	display:table; margin:0 auto;
 	font-family: Arial, "sans-serif";
 	text-align: left;
 	font-size: 15px;
 }
 
-
 .subheads {
 	font-family: Arial, "sans-serif";
-	text-align: "center";
-	font-size: "15px";
-	padding-bottom: "5px";
-	font-weight: "bold";
+	text-align: center;
+	font-size: 15px;
+	padding-bottom: 5px;
+	font-weight: bold;
 }
 
 #logo {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 20px;
-    width: 10%;
+    max-width: 100px;
+    margin: 0 auto;
+    width: 90%;
 }
 
 #footer {
-	padding-bottom: "80px";
+	padding-bottom: 80px
 }
 
-header{
+header {
     background-color: "#fff";
-    padding: "20px";
-    float: "none";
+    border: 1px black solid;
+    padding: 20px;
+    float: "left";
     display: "block";
+
 }
 
-nav{
-    background-color: "#fff";
-    padding: "20px";
-    height: "20px";
+nav {
+    background-color: : #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
 }
 
-#wrapper{
-    position: relative;
-    padding: "5px";
-    text-align: center;
-}
-
-#tiles{
-    display: inline-block;
-    position: relative;
-    padding: "5px";
-    text-align: center;
-}
-#tiles img{
-    height: 300px;
-    width: 300px;
-    vertical-align: middle;
-    padding: "5px";
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 footer {
-    background-color: "#FF957E";
-    padding: "20px";
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
 }
 
